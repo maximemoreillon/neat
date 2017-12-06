@@ -1,5 +1,4 @@
-# neat
-Neuroevolution of autogmented topologies
+# N.E.A.T (Neuroevolution of autogmented topologies)
 
 This is an attempt at creating an artificial neural network trained using evolution strategies.
 Here, the structure of the network also part of the evolution process.
